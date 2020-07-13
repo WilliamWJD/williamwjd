@@ -6,10 +6,10 @@
 ### Sobre mim
 <p>😄 Sou um amante e entusiasta da tecnologia, sempre buscando novos conhecimentos e procurando melhorar a cada dia não só como profissional mas também como pessoa.</p>
 
-📍 Moro na cidade de Sumaré - SP
-👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
-🕹 Gosto de jogar video-game e estudar programação em minhas horas livres.
-👨‍💼 Trabalho como Assistente de TI na Cooperfértil
+- 📍 Moro na cidade de Sumaré - SP
+- 👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
+- 🕹 Gosto de jogar video-game e estudar programação em minhas horas livres.
+- 👨‍💼 Trabalho como Assistente de TI na Cooperfértil
 
 
 ### 💻 Estudando no momento
