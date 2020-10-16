@@ -8,7 +8,7 @@
 
 - 📍 Moro na cidade de Sumaré - SP
 - 👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
-- 🕹 Gosto de jogar video-game e assistir futebol.
+- 🕹 Gosto de jogar video-game e assistir futebol em minhas horas livre.
 - 👨‍💼 Trabalho como Assistente de TI na Cooperfértil
 
 
