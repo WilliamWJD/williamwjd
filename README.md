@@ -10,7 +10,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC
 - 👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
 - 🕹 Gosto de jogar video-game e assistir futebol em minhas horas livre.
-- 👨‍💼 Em busca de uma recolocação no mercado de trabalho.
+- 👨‍💼 Técnico de Informática na CNPEM.
 
 
 ### 💻 Estudando no momento
