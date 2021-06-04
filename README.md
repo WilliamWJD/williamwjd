@@ -11,6 +11,7 @@
 - 👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
 - 🕹 Gosto de jogar video-game e assistir futebol em minhas horas livre.
 - 👨‍💼 Técnico de Informática no CNPEM.
+- 🎥 Canal <a href="https://www.youtube.com/channel/UC7ch2JdqdkJq7TT0zgTfq8Q">youtube</a>
 
 
 ### 💻 Estudando no momento
