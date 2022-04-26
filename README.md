@@ -10,7 +10,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário SENAC
 - 👨‍🎓 Formado no curso Técnico de Informática - CTECAMP
 - 🕹 Gosto de jogar video-game e assistir futebol em minhas horas livre.
-- 👨‍💼 Estagiário em Desenvolvimento Java/Pyton
+- 👨‍💼 Estagiário em Desenvolvimento Java/Python
 - 🎥 Canal <a href="https://www.youtube.com/channel/UC7ch2JdqdkJq7TT0zgTfq8Q" target="_blank">youtube</a>
 
 
