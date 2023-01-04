@@ -20,3 +20,8 @@
 - React Native
 - React
 - JavaScript
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?&username=williamwjd&hide=prs,issues,contribs&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamwjd&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
